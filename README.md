@@ -1,5 +1,8 @@
-#Analyze A/B Test Results
-by Adaobi Onyeakagbu
+#AB testing
+
+<b/>Analyze A/B Test Results</b>
+
+<b/>by Adaobi Onyeakagbu</b>
 
 This project focuses on understanding the results of an A/B test run by an e-commerce website. The data was provided by Udacity. The goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 Methods used:
