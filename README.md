@@ -1,6 +1,4 @@
-#AB testing
-
-<b/>Analyze A/B Test Results</b>
+# Analyze A/B Test Results
 
 <b/>by Adaobi Onyeakagbu</b>
 
